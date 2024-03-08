@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "name": "ПЛАТА ЗА ТРАНСПОРТИРОВКУ",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias ducimus voluptas corporis sequi? Eius quo fugit recusandae quis rem? Veniam culpa nihil ratione placeat voluptatibus."
+    },
+    {
+        "id": 1,
+        "name": "УПАКОВКА И ОБРАБОТКА",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    },
+    {
+        "id": 2,
+        "name": "ОБРАБОТКА ДОКУМЕНТОВ",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    },
+    {
+        "id": 3,
+        "name": "ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    },
+    {
+        "id": 4,
+        "name": "ТАМОЖЕННЫЕ ПОШЛИНЫ И НАЛОГИ",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    },
+    {
+        "id": 5,
+        "name": "СТРАХОВАНИЕ",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    },
+    {
+        "id": 6,
+        "name": "ДОСТАВКА НА МЕСТО НАЗНАЧЕНИЯ",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aspernatur ratione commodi recusandae ea eos autem deleniti quis odit vel blanditiis. Praesentium accusamus sapiente aperiam vitae!"
+    }
+    
+]
